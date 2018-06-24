@@ -17,6 +17,7 @@
     "lib/",
     "scripts/",
     "src/",
+    "typings/",
     "deps/"
   ],
   "homepage": "https://github.com/Tyriar/node-pty",
